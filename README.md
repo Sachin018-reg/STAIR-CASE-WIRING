@@ -1,5 +1,6 @@
 # STAIR-CASE-WIRING
-
+### Name:Praveen S
+### Reg no:212223210019
 AIM
 To control the status of the given lamp by using two – way switches.
 
